@@ -29,7 +29,3 @@ This project displays a stylish restaurant menu with food images and dropdown se
 
 ---
 
-## ⚡ How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/PallaviNayak12/KPs-Kitchen-Paradise.git
