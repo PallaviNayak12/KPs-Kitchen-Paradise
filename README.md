@@ -8,7 +8,7 @@ This project displays a stylish restaurant menu with food images and dropdown se
 - 🎨 Beautiful and simple UI using **only HTML & CSS**  
 - 🖼️ High-quality food images included  
 - 📂 Organized menu with sections  
-- ✅ Confirm & Cancel buttons styled with CSS  
+- ✅ Confirm & Cancel buttons styled with CSS 
 
 ---
 
