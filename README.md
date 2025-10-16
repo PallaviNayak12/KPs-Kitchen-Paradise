@@ -1,7 +1,7 @@
 # 🍴 KP’s Kitchen Paradise  
 
 A **static restaurant menu webpage** built using **HTML and CSS**.  
-This project displays a stylish restaurant menu with food images and dropdown selection for dishes. 
+This project displays a stylish restaurant menu with food images and dropdown selection for dishes.  
 
 --- 
 ## 📌 Features  
