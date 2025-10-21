@@ -12,7 +12,7 @@ This project displays a stylish restaurant menu with food images and dropdown se
 
 ---
 
-## 🚀 Tech Stack   
+## 🚀 Tech Stack    
 - **HTML5** – Page structure  
 - **CSS3** – Styling & layout
 
