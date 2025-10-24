@@ -4,7 +4,7 @@ A **static restaurant menu webpage** built using **HTML and CSS**.
 This project displays a stylish restaurant menu with food images and dropdown selection for dishes.   
 
 --- 
-## 📌 Features   
+## 📌 Features    
 - 🎨 Beautiful and simple UI using **only HTML & CSS**   
 - 🖼️ High-quality food images included  
 - 📂 Organized menu with sections  
