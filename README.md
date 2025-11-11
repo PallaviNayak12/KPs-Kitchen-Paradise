@@ -10,7 +10,7 @@ This project displays a stylish restaurant menu with food images and dropdown se
 - 📂 Organized menu with sections  
 - ✅ Confirm & Cancel buttons styled with CSS
 
----
+---  
 
 ## 🚀 Tech Stack             
 - **HTML5** – Page structure  
